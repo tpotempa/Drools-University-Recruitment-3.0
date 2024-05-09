@@ -103,7 +103,7 @@ public class UniversityMainVerySimple {
 		System.out.println("Reasoning No 1.");
 		kSession.fireAllRules();
 		// Uruchomienie dodatkowych wnioskowań, aby pokazać, że fakty, które nie są intencjonalnie 
-		// zmieniane w pamięcie roboczej, są przetwarzane ponownie tj. są przetwarzane tylko 1-krotnie.
+		// zmieniane w pamięcie roboczej, nie są przetwarzane ponownie tj. są przetwarzane tylko 1-krotnie.
 		System.out.println("Reasoning No 2.");
 		kSession.fireAllRules();
 		System.out.println("Reasoning No 3.");
