@@ -8,7 +8,7 @@ dialect "java"
 agenda-group "two_sets_of_rules_salience"
 salience 200
 when
-    $uc : UniversityCandidate(olympicFinalist == true);
+    $uc : UniversityCandidate(olympicFinalist == true)
 then
     $uc.setAdmission(true);
     $uc.setQualificationType("Olympic qualification");

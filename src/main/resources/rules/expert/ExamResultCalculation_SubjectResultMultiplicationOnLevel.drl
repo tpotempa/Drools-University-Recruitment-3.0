@@ -11,7 +11,7 @@ agenda-group "exam_result_calculation"
 salience 500
 
 when
-    $esr : ExamSubjectResult(examLevel == 'rozszerzony');
+    $esr : ExamSubjectResult(examLevel == 'rozszerzony')
 then
 	modify($esr) {
   		setExamResult(2*$esr.getExamResult())

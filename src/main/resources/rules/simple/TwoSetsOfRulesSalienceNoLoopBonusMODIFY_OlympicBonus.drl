@@ -9,7 +9,7 @@ agenda-group "two_sets_of_rules_salience_no-loop_bonus_MODIFY"
 salience 200
 no-loop false
 when
-    $uc : UniversityCandidate(olympicFinalist == true);
+    $uc : UniversityCandidate(olympicFinalist == true)
 then
   	modify($uc) {
         setExamResult(2 * $uc.getExamResult()),

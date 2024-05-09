@@ -2,7 +2,7 @@ package pl.edu.pwsztar.universityrecruitment;
 
 import java.util.ArrayList;
 
-@javax.persistence.Entity
+//@javax.persistence.Entity
 @org.kie.api.definition.type.PropertyReactive
 public class UniversityCandidate implements java.io.Serializable
 {
@@ -17,13 +17,14 @@ public class UniversityCandidate implements java.io.Serializable
    private java.lang.String lastName;
    private java.lang.String gender; 
    private java.lang.Double examResult;
+   //@ElementCollection
    private ArrayList<ExamSubjectResult> examSubjectResult;
    private java.lang.Boolean admission = Boolean.FALSE;  
    private java.lang.String fieldOfStudy;
    private java.lang.Boolean olympicFinalist;
    private java.lang.String qualificationType = "None";  
    private java.lang.String logger = "";   
-   private java.lang.Integer counter = 0;
+   private java.lang.Integer counter = (Integer) 0;
    
 public UniversityCandidate()
    {

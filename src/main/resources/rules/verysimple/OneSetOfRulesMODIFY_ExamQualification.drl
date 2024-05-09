@@ -7,7 +7,7 @@ rule "Exam Qualification / Informatyka (one_set_of_rules_MODIFY)"
 dialect "java"
 agenda-group "one_set_of_rules_MODIFY"
 when
-    $uc : UniversityCandidate(examResult > 100, fieldOfStudy == "Informatyka", counter < 10);
+    $uc : UniversityCandidate(examResult > 100, fieldOfStudy == "Informatyka", counter < 10)
 then
   	modify($uc) { 
 		setAdmission(Boolean.TRUE),
@@ -22,7 +22,7 @@ rule "Exam Qualification / Automatyka i robotyka (one_set_of_rules_MODIFY)"
 dialect "java"
 agenda-group "one_set_of_rules_MODIFY"
 when
-    $uc : UniversityCandidate(examResult > 60, fieldOfStudy == "Automatyka i robotyka", counter < 10);
+    $uc : UniversityCandidate(examResult > 60, fieldOfStudy == "Automatyka i robotyka", counter < 10)
 then
   	modify($uc) { 
 		setAdmission(Boolean.TRUE),
@@ -37,7 +37,7 @@ rule "Exam Qualification / Elektrotechnika (one_set_of_rules_MODIFY)"
 dialect "java"
 agenda-group "one_set_of_rules_MODIFY"
 when
-    $uc : UniversityCandidate(examResult > 80, fieldOfStudy == "Elektrotechnika", counter < 10);
+    $uc : UniversityCandidate(examResult > 80, fieldOfStudy == "Elektrotechnika", counter < 10)
 then
   	modify($uc) { 
 		setAdmission(Boolean.TRUE),

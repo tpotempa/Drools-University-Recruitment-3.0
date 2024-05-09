@@ -10,7 +10,7 @@ salience 100
 activation-group "group-1"
 
 when
-    $uc : UniversityCandidate(examResult > 100, fieldOfStudy == "Informatyka") @Watch(!*);
+    $uc : UniversityCandidate(examResult > 100, fieldOfStudy == "Informatyka") @Watch(!*)
 then
   	modify($uc) { 
 		setAdmission(true),
@@ -27,7 +27,7 @@ salience 100
 activation-group "group-1"
 
 when
-    $uc : UniversityCandidate(examResult > 60, fieldOfStudy == "Automatyka i robotyka") @Watch(!*);
+    $uc : UniversityCandidate(examResult > 60, fieldOfStudy == "Automatyka i robotyka") @Watch(!*)
 then
   	modify($uc) {
 		setAdmission(true),
@@ -44,7 +44,7 @@ salience 100
 activation-group "group-1"
 
 when
-    $uc : UniversityCandidate(examResult > 80, fieldOfStudy == "Elektrotechnika") @Watch(!*);
+    $uc : UniversityCandidate(examResult > 80, fieldOfStudy == "Elektrotechnika") @Watch(!*)
 then
   	modify($uc) {
 		setAdmission(true),

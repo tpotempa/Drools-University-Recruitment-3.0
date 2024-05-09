@@ -8,7 +8,7 @@ dialect "java"
 agenda-group "two_sets_of_rules_salience_no-loop_bonus_MODIFY"
 salience 100
 when
-    $uc : UniversityCandidate(examResult > 100, fieldOfStudy == "Informatyka");
+    $uc : UniversityCandidate(examResult > 100, fieldOfStudy == "Informatyka")
 then
     $uc.setAdmission(true);
     $uc.setQualificationType("Exam qualification");
@@ -21,7 +21,7 @@ dialect "java"
 agenda-group "two_sets_of_rules_salience_no-loop_bonus_MODIFY"
 salience 100
 when
-    $uc : UniversityCandidate(examResult > 60, fieldOfStudy == "Automatyka i robotyka");
+    $uc : UniversityCandidate(examResult > 60, fieldOfStudy == "Automatyka i robotyka")
 then
     $uc.setAdmission(true);
     $uc.setQualificationType("Exam qualification");
@@ -34,7 +34,7 @@ dialect "java"
 agenda-group "two_sets_of_rules_salience_no-loop_bonus_MODIFY"
 salience 100
 when
-    $uc : UniversityCandidate(examResult > 80, fieldOfStudy == "Elektrotechnika");
+    $uc : UniversityCandidate(examResult > 80, fieldOfStudy == "Elektrotechnika")
 then
     $uc.setAdmission(true);
     $uc.setQualificationType("Exam qualification");

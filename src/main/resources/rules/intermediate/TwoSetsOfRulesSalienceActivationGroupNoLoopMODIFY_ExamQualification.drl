@@ -10,7 +10,7 @@ salience 100
 activation-group "group-1"
 no-loop true
 when
-    $uc : UniversityCandidate(examResult > 100, fieldOfStudy == "Informatyka", counter < 10);
+    $uc : UniversityCandidate(examResult > 100, fieldOfStudy == "Informatyka", counter < 10)
 then
   	modify($uc) { 
 		setAdmission(true),
@@ -28,7 +28,7 @@ salience 100
 activation-group "group-1"
 no-loop true
 when
-    $uc : UniversityCandidate(examResult > 60, fieldOfStudy == "Automatyka i robotyka", counter < 10);
+    $uc : UniversityCandidate(examResult > 60, fieldOfStudy == "Automatyka i robotyka", counter < 10)
 then
   	modify($uc) {
 		setAdmission(true),
@@ -46,7 +46,7 @@ salience 100
 activation-group "group-1"
 no-loop true
 when
-    $uc : UniversityCandidate(examResult > 80, fieldOfStudy == "Elektrotechnika", counter < 10);
+    $uc : UniversityCandidate(examResult > 80, fieldOfStudy == "Elektrotechnika", counter < 10)
 then
   	modify($uc) {
 		setAdmission(true),

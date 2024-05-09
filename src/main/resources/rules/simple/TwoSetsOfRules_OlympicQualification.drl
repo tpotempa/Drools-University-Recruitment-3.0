@@ -7,7 +7,7 @@ rule "Olympic qualification (two_sets_of_rules)"
 dialect "java"
 agenda-group "two_sets_of_rules"
 when
-    $uc : UniversityCandidate(olympicFinalist == true);
+    $uc : UniversityCandidate(olympicFinalist == true)
 then
     $uc.setAdmission(true);
     $uc.setQualificationType("Olympic qualification");

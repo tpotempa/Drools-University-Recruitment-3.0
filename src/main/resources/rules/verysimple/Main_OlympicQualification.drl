@@ -13,7 +13,7 @@ dialect "java"
 agenda-group "do_not_focus_automatically"
 
 when
-    $uc : UniversityCandidate(olympicFinalist == true);
+    $uc : UniversityCandidate(olympicFinalist == true)
 then
     $uc.setAdmission(true);
     $uc.setQualificationType("Olympic qualification");

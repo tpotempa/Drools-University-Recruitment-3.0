@@ -10,7 +10,7 @@ salience 300
 lock-on-active true
 
 when
-    $uc : UniversityCandidate(olympicFinalist == true);
+    $uc : UniversityCandidate(olympicFinalist == true)
 then
   	modify($uc) {
         setExamResult(2 * $uc.getExamResult()),

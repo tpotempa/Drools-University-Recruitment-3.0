@@ -8,6 +8,7 @@ import org.kie.api.event.rule.DebugAgendaEventListener;
 import org.kie.api.event.rule.DebugRuleRuntimeEventListener;
 import org.kie.api.runtime.KieContainer;
 import org.kie.api.runtime.KieSession;
+import org.kie.api.runtime.StatelessKieSession;
 import org.kie.api.logger.KieRuntimeLogger;
 
 public class UniversityMainSimple {
@@ -44,7 +45,7 @@ public class UniversityMainSimple {
 		// Rezultaty działania silnika wnioskującego są zwracane w oknie konsoli.
 
 		// Uruchamiany przykład
-		Integer example = 6;
+		Integer example = 1;
 
 		switch (example) {
 		case 1:

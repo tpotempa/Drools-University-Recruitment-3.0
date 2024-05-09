@@ -8,7 +8,7 @@ dialect "java"
 agenda-group "one_set_of_rules_no-loop_MODIFY"
 no-loop true
 when
-    $uc : UniversityCandidate(examResult > 100, fieldOfStudy == "Informatyka", counter < 10);
+    $uc : UniversityCandidate(examResult > 100, fieldOfStudy == "Informatyka", counter < 10)
 then
   	modify($uc) { 
 		setAdmission(Boolean.TRUE),
@@ -24,7 +24,7 @@ dialect "java"
 agenda-group "one_set_of_rules_no-loop_MODIFY"
 no-loop true
 when
-    $uc : UniversityCandidate(examResult > 60, fieldOfStudy == "Automatyka i robotyka", counter < 10);
+    $uc : UniversityCandidate(examResult > 60, fieldOfStudy == "Automatyka i robotyka", counter < 10)
 then
   	modify($uc) { 
 		setAdmission(Boolean.TRUE),
@@ -40,7 +40,7 @@ dialect "java"
 agenda-group "one_set_of_rules_no-loop_MODIFY"
 no-loop true
 when
-    $uc : UniversityCandidate(examResult > 80, fieldOfStudy == "Elektrotechnika", counter < 10);
+    $uc : UniversityCandidate(examResult > 80, fieldOfStudy == "Elektrotechnika", counter < 10)
 then
   	modify($uc) { 
 		setAdmission(Boolean.TRUE),

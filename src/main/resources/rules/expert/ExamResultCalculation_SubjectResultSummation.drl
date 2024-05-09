@@ -12,8 +12,8 @@ agenda-group "exam_result_calculation"
 salience 400
 
 when
-    $uc : UniversityCandidate(fieldOfStudy == 'Informatyka');
-    $esr : ExamSubjectResult(examSubject in ('matematyka', 'informatyka'));
+    $uc : UniversityCandidate(fieldOfStudy == 'Informatyka')
+    $esr : ExamSubjectResult(examSubject in ('matematyka', 'informatyka'))
 then
 	modify($uc) {
     	appendLogger("Rule 'Subject result summation (exam_result_calculation)' fired! Exam result = "
@@ -30,8 +30,8 @@ agenda-group "exam_result_calculation"
 salience 400
 
 when
-    $uc : UniversityCandidate(fieldOfStudy == 'Automatyka i robotyka');
-    $esr : ExamSubjectResult(examSubject in ('matematyka'));
+    $uc : UniversityCandidate(fieldOfStudy == 'Automatyka i robotyka')
+    $esr : ExamSubjectResult(examSubject in ('matematyka'))
 then
 	modify($uc) {
     	appendLogger("Rule 'Subject result summation (exam_result_calculation)' fired! Exam result = "
@@ -48,8 +48,8 @@ agenda-group "exam_result_calculation"
 salience 400
 
 when
-    $uc : UniversityCandidate(fieldOfStudy == 'Elektrotechnika');
-    $esr : ExamSubjectResult(examSubject in ('matematyka', 'fizyka'));
+    $uc : UniversityCandidate(fieldOfStudy == 'Elektrotechnika')
+    $esr : ExamSubjectResult(examSubject in ('matematyka', 'fizyka'))
 then
 	modify($uc) {
     	appendLogger("Rule 'Subject result summation (exam_result_calculation)' fired! Exam result = "
@@ -66,8 +66,8 @@ agenda-group "exam_result_calculation"
 salience 400
 
 when
-    $uc : UniversityCandidate(fieldOfStudy == 'Pielęgniarstwo');
-    $esr : ExamSubjectResult(examSubject in ('chemia', 'biologia'));
+    $uc : UniversityCandidate(fieldOfStudy == 'Pielęgniarstwo')
+    $esr : ExamSubjectResult(examSubject in ('chemia', 'biologia'))
 then
 	modify($uc) {
     	appendLogger("Rule 'Subject result summation (exam_result_calculation)' fired! Exam result = "
@@ -84,8 +84,8 @@ agenda-group "exam_result_calculation"
 salience 400
 
 when
-    $uc : UniversityCandidate(fieldOfStudy == 'Psychologia');
-    $esr : ExamSubjectResult(examSubject in ('język polski'));
+    $uc : UniversityCandidate(fieldOfStudy == 'Psychologia')
+    $esr : ExamSubjectResult(examSubject in ('język polski'))
 then
 	modify($uc) {
     	appendLogger("Rule 'Subject result summation (exam_result_calculation)' fired! Exam result = "

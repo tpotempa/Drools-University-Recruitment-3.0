@@ -9,7 +9,7 @@ agenda-group "two_sets_of_rules_salience_activation-group"
 salience 200
 activation-group "group-1"
 when
-    $uc : UniversityCandidate(olympicFinalist == true);
+    $uc : UniversityCandidate(olympicFinalist == true)
 then
     $uc.setAdmission(true);
     $uc.setQualificationType("Olympic qualification");

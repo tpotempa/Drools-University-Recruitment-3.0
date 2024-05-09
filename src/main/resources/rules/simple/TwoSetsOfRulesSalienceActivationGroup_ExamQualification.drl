@@ -9,7 +9,7 @@ agenda-group "two_sets_of_rules_salience_activation-group"
 salience 100
 activation-group "group-1"
 when
-    $uc : UniversityCandidate(examResult > 100, fieldOfStudy == "Informatyka");
+    $uc : UniversityCandidate(examResult > 100, fieldOfStudy == "Informatyka")
 then
     $uc.setAdmission(true);
     $uc.setQualificationType("Exam qualification");
@@ -23,7 +23,7 @@ agenda-group "two_sets_of_rules_salience_activation-group"
 salience 100
 activation-group "group-1"
 when
-    $uc : UniversityCandidate(examResult > 60, fieldOfStudy == "Automatyka i robotyka");
+    $uc : UniversityCandidate(examResult > 60, fieldOfStudy == "Automatyka i robotyka")
 then
     $uc.setAdmission(true);
     $uc.setQualificationType("Exam qualification");
@@ -37,7 +37,7 @@ agenda-group "two_sets_of_rules_salience_activation-group"
 salience 100
 activation-group "group-1"
 when
-    $uc : UniversityCandidate(examResult > 80, fieldOfStudy == "Elektrotechnika");
+    $uc : UniversityCandidate(examResult > 80, fieldOfStudy == "Elektrotechnika")
 then
     $uc.setAdmission(true);
     $uc.setQualificationType("Exam qualification");
