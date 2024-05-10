@@ -1,4 +1,4 @@
-package rules
+package rules.intermediate
 
 import pl.edu.pwsztar.universityrecruitment.UniversityCandidate;
 

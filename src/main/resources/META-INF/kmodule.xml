@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <kmodule xmlns="http://jboss.org/kie/6.0.0/kmodule">
-    <kbase name="rules" packages="rules">
-        <ksession name="ksession-rules" type="stateful"/>
+    <kbase name="rules.verysimple" packages="rules.verysimple">
+        <ksession name="ksession-rules-verysimple" type="stateful"/>
     </kbase>
+    <kbase name="rules.simple" packages="rules.simple">
+        <ksession name="ksession-rules-simple" type="stateful"/>
+    </kbase>
+    <kbase name="rules.upperintermediate" packages="rules.upperintermediate">
+        <ksession name="ksession-rules-upperintermediate" type="stateful"/>
+    </kbase>
+    <kbase name="rules.intermediate" packages="rules.intermediate">
+        <ksession name="ksession-rules-intermediate" type="stateful"/>
+    </kbase>
+    <kbase name="rules.advanced" packages="rules.advanced">
+        <ksession name="ksession-rules-advanced" type="stateful"/>
+    </kbase>
+    <kbase name="rules.expert" packages="rules.expert">
+        <ksession name="ksession-rules-expert" type="stateful"/>
+    </kbase>
+
+    <kbase name="stateless.rules.verysimple" packages="rules.verysimple">
+        <ksession name="ksession-stateless-rules-verysimple" type="stateless"/>
+    </kbase>
+
     <kbase name="dtables" packages="dtables">
         <ksession name="ksession-dtables" type="stateful"/>
     </kbase>
+
     <kbase name="process" packages="process">
         <ksession name="ksession-process"/>
     </kbase>

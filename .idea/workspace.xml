@@ -4,51 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1956f031-4c5b-40a3-a92a-a9d34cd683de" name="Changes" comment="First 3.0.">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/binaries.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/binaries.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/slf4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/slf4j.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1956f031-4c5b-40a3-a92a-a9d34cd683de" name="Changes" comment="3.1.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/.drools.runtime" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/.drools.runtime" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drools-University-Recruitment-3.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Drools-University-Recruitment-3.0.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/drools/examples/runExamples.bat" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/drools/examples/runExamples.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/drools/javadoc/internal/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/drools/javadoc/internal/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/drools/javadoc/public/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/drools/javadoc/public/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/.project" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/META-INF/maven/org.slf4j/slf4j-simple/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/OutputChoice$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/OutputChoice$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/OutputChoice$OutputChoiceType.class" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/OutputChoice$OutputChoiceType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/OutputChoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/OutputChoice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/SimpleLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/SimpleLogger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/SimpleLoggerConfiguration$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/SimpleLoggerConfiguration$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/SimpleLoggerConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/SimpleLoggerConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/SimpleLoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/SimpleLoggerFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/StaticLoggerBinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/StaticLoggerBinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/StaticMDCBinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/StaticMDCBinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/StaticMarkerBinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/slf4j/org/slf4j/impl/StaticMarkerBinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/ExamSubjectResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/ExamSubjectResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/TrackingAgendaEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/TrackingAgendaEventListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityCandidate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityCandidate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainAdvanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainAdvanced.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainExpert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainExpert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainIntermediate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainIntermediate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainUpperIntermediate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainUpperIntermediate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainVerySimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainVerySimple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/kmodule.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/kmodule.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/logback-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logback-test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/rules/advanced/TwoSetsOfRulesSalienceActivationGroupMODIFY_PropertyReactive_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/advanced/TwoSetsOfRulesSalienceActivationGroupMODIFY_PropertyReactive_ExamQualification.drl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/rules/advanced/TwoSetsOfRulesSalienceActivationGroupMODIFY_PropertyReactive_OlympicQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/advanced/TwoSetsOfRulesSalienceActivationGroupMODIFY_PropertyReactive_OlympicQualification.drl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/rules/expert/ExamResultCalculation_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/expert/ExamResultCalculation_ExamQualification.drl" afterDir="false" />
@@ -90,6 +50,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tpotempa"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tpotempa/Drools-University-Recruitment-3.0.git",
+    "accountId": "a2227e7d-f40f-4751-b838-aad784b736ba"
+  }
+}]]></component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
@@ -118,13 +90,14 @@
     "Application.UniversityMainExpert.executor": "Run",
     "Application.UniversityMainSimple 3.0.executor": "Run",
     "Application.UniversityMainVerySimple 3.0.executor": "Run",
+    "Application.UniversityMainVerySimpleStateless.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/tpotempa/Documents/#PROJECT#/IdeaProjects/Drools-University-Recruitment/University-Recruitment-3.0",
+    "last_opened_file_path": "/home/tpotempa/Documents/#PROJECT#/IdeaProjects/Drools-University-Recruitment/University-Recruitment-3.0/src/main/resources/rulesverysimple",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -133,10 +106,19 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "advanced.settings",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/rulesverysimple" />
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.edu.pwsztar.universityrecruitment" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.UniversityMainVerySimple 3.0">
     <configuration name="UniversityMainSimple 3.0" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="pl.edu.pwsztar.universityrecruitment.UniversityMainSimple" />
@@ -153,10 +135,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UniversityMainVerySimpleStateless" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pwsztar.universityrecruitment.UniversityMainVerySimpleStateless" />
+      <module name="Drools-University-Recruitment-3.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pwsztar.universityrecruitment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.UniversityMainVerySimple 3.0" />
       <item itemvalue="Application.UniversityMainSimple 3.0" />
+      <item itemvalue="Application.UniversityMainVerySimpleStateless" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UniversityMainVerySimpleStateless" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -188,7 +189,8 @@
       <workItem from="1699859518089" duration="1774000" />
       <workItem from="1699894746177" duration="24000" />
       <workItem from="1714762588326" duration="1126000" />
-      <workItem from="1715086298365" duration="8833000" />
+      <workItem from="1715086298365" duration="12763000" />
+      <workItem from="1715322029830" duration="5076000" />
     </task>
     <task id="LOCAL-00001" summary="First.">
       <option name="closed" value="true" />
@@ -198,7 +200,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715284805360</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First 3.0.">
+      <option name="closed" value="true" />
+      <created>1715285401632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715285401632</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715286303219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715286303219</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +236,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First." />
     <MESSAGE value="First 3.0." />
-    <option name="LAST_COMMIT_MESSAGE" value="First 3.0." />
+    <MESSAGE value="3.1." />
+    <option name="LAST_COMMIT_MESSAGE" value="3.1." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
