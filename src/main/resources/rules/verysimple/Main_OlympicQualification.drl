@@ -3,7 +3,7 @@ package rules.verysimple
 import pl.edu.pwsztar.universityrecruitment.UniversityCandidate;
 
 // Kwalifikacja olimpijska
-rule "Olympic Qualification (main)"
+rule "Olympic Qualification (do_not_focus_automatically / main)"
 dialect "java"
 // Reguły bez przypisanej agenda-group są przyporządkowane do domyślnej agendy 'MAIN'!
 // Agenda 'MAIN' jest w procesie wnioskowanie ZAWSZE wywoływana tj. uzyskuje FOCUS.
