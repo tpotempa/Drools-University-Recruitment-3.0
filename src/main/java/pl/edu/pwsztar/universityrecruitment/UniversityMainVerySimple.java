@@ -38,7 +38,7 @@ public class UniversityMainVerySimple {
 		
 		// ZESTAW REGUŁ BARDZO PROSTYCH
 		// HOW-TO :: Uruchomienie przykładu.
-		// Każdy przykład (Example 1 - Example 5) należy uruchamiać niezależnie.
+		// Każdy przykład (Example 1 - Example 6) należy uruchamiać niezależnie.
 		// W celu uruchomienia określonego przykładu należy ustawić wartość zmiennej example. 
 		// Rezultaty działania silnika wnioskującego są zwracane w oknie konsoli.
 
@@ -48,6 +48,16 @@ public class UniversityMainVerySimple {
 		switch (example) {
 		case 1:
 			// Set 1. Example 1.
+			// OPIS: Uruchamianie zbiorów reguł z określoną agenda-group.
+			// Agenda grupuje reguły w nazwane zbiory pozwalając sterować,
+			// które zbiory reguł mają być podczas wnioskowania przetwarzane.
+			// UWAGA: W celu wykonania testu niniejszego przykładu należy w zbiorze
+			// reguł Main_OlympicQualification.drl sprawdzić czy jest
+			// odkomentowany n/w wiersz:
+			// agenda-group "do_not_focus_automatically"
+			break;
+		case 2:
+			// Set 1. Example 2.
 			// OPIS: Uruchamianie zbiorów reguł bez określonej agenda-group.
 			// Agenda grupuje reguły w nazwane zbiory pozwalając sterować,
 			// które zbiory reguł mają być podczas wnioskowania przetwarzane.
@@ -60,8 +70,8 @@ public class UniversityMainVerySimple {
 			// agenda-group "do_not_focus_automatically"
 			// Po przeprowadzeniu testów należy odkomentować w/w wiersz.
 			break;
-		case 2:
-			// Set 1. Example 2.
+		case 3:
+			// Set 1. Example 3.
 			// OPIS: Uruchamianie 1 zbioru składającego się z 3 wykluczających się reguł
 			// kwalifikacyjnych.
 			// UWAGA: W celu wykonania testu niniejszego przykładu należy w zbiorze
@@ -69,8 +79,8 @@ public class UniversityMainVerySimple {
 			// agenda-group "do_not_focus_automatically"
 			kSession.getAgenda().getAgendaGroup("one_set_of_rules").setFocus();
 			break;
-		case 3:
-			// Set 1. Example 3.
+		case 4:
+			// Set 1. Example 4.
 			// OPIS: Uruchamianie 1 zbioru składającego się z 3 wykluczających się reguł
 			// kwalifikacyjnych oraz zbiorów reguł bez określonej agenda-group tj. z agendy 'MAIN'.
 			// UWAGA: W celu wykonania testu niniejszego przykładu należy w zbiorze
@@ -79,16 +89,16 @@ public class UniversityMainVerySimple {
 			// Po przeprowadzeniu testów należy odkomentować w/w wiersz.
 			kSession.getAgenda().getAgendaGroup("one_set_of_rules").setFocus();
 			break;
-		case 4:
-			// Set 1. Example 4.
+		case 5:
+			// Set 1. Example 5.
 			// OPIS: Uruchamianie 1 zbioru składającego się z 3 wykluczających się reguł
 			// kwalifikacyjnych z MODFIKACJĄ faktu powodującą uruchomienie ponownego
 			// wnioskowania.
 			// PYTANIE: W jakim celu używany jest counter?
 			kSession.getAgenda().getAgendaGroup("one_set_of_rules_MODIFY").setFocus();
 			break;
-		case 5:
-			// Set 1. Example 5.
+		case 6:
+			// Set 1. Example 6.
 			// OPIS: Uruchamianie 1 zbioru składającego się z 3 wykluczających się reguł
 			// kwalifikacyjnych z MODFIKACJĄ faktu powodującą uruchomienie ponownego
 			// wnioskowania
