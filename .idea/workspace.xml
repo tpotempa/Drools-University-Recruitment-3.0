@@ -6,41 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1956f031-4c5b-40a3-a92a-a9d34cd683de" name="Changes" comment="3.1.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainVerySimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/edu/pwsztar/universityrecruitment/UniversityMainVerySimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/kmodule.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/kmodule.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/advanced/TwoSetsOfRulesSalienceActivationGroupMODIFY_PropertyReactive_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/advanced/TwoSetsOfRulesSalienceActivationGroupMODIFY_PropertyReactive_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/advanced/TwoSetsOfRulesSalienceActivationGroupMODIFY_PropertyReactive_OlympicQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/advanced/TwoSetsOfRulesSalienceActivationGroupMODIFY_PropertyReactive_OlympicQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/expert/ExamResultCalculation_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/expert/ExamResultCalculation_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/expert/ExamResultCalculation_GetSubjectsForExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/expert/ExamResultCalculation_GetSubjectsForExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/expert/ExamResultCalculation_OlympicQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/expert/ExamResultCalculation_OlympicQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/expert/ExamResultCalculation_SubjectResultMultiplicationOnLevel.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/expert/ExamResultCalculation_SubjectResultMultiplicationOnLevel.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/expert/ExamResultCalculation_SubjectResultSummation.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/expert/ExamResultCalculation_SubjectResultSummation.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/intermediate/TwoSetsOfRulesSalienceActivationGroupLockOnActiveMODIFY_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/intermediate/TwoSetsOfRulesSalienceActivationGroupLockOnActiveMODIFY_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/intermediate/TwoSetsOfRulesSalienceActivationGroupLockOnActiveMODIFY_OlympicQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/intermediate/TwoSetsOfRulesSalienceActivationGroupLockOnActiveMODIFY_OlympicQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/intermediate/TwoSetsOfRulesSalienceActivationGroupMODIFY_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/intermediate/TwoSetsOfRulesSalienceActivationGroupMODIFY_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/intermediate/TwoSetsOfRulesSalienceActivationGroupMODIFY_OlympicQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/intermediate/TwoSetsOfRulesSalienceActivationGroupMODIFY_OlympicQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/intermediate/TwoSetsOfRulesSalienceActivationGroupNoLoopMODIFY_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/intermediate/TwoSetsOfRulesSalienceActivationGroupNoLoopMODIFY_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/intermediate/TwoSetsOfRulesSalienceActivationGroupNoLoopMODIFY_OlympicQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/intermediate/TwoSetsOfRulesSalienceActivationGroupNoLoopMODIFY_OlympicQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceActivationGroup_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceActivationGroup_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceActivationGroup_OlympicQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceActivationGroup_OlympicQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceLockOnActiveMODIFY_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceLockOnActiveMODIFY_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceLockOnActiveMODIFY_OlympicQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceLockOnActiveMODIFY_OlympicQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceNoLoopBonusMODIFY_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceNoLoopBonusMODIFY_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceNoLoopBonusMODIFY_OlympicBonus.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceNoLoopBonusMODIFY_OlympicBonus.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceNoLoopMODIFY_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceNoLoopMODIFY_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceNoLoopMODIFY_OlympicQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalienceNoLoopMODIFY_OlympicQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalience_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalience_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalience_OlympicQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRulesSalience_OlympicQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRules_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRules_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRules_OlympicQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/simple/TwoSetsOfRules_OlympicQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/upperintermediate/ThreeSetsOfRulesSalienceLockOnActiveBonusMODIFY_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/upperintermediate/ThreeSetsOfRulesSalienceLockOnActiveBonusMODIFY_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/upperintermediate/ThreeSetsOfRulesSalienceLockOnActiveBonusMODIFY_GenderBonus.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/upperintermediate/ThreeSetsOfRulesSalienceLockOnActiveBonusMODIFY_GenderBonus.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/upperintermediate/ThreeSetsOfRulesSalienceLockOnActiveBonusMODIFY_OlympicBonus.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/upperintermediate/ThreeSetsOfRulesSalienceLockOnActiveBonusMODIFY_OlympicBonus.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/verysimple/Main_OlympicQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/verysimple/Main_OlympicQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/verysimple/OneSetOfRulesMODIFY_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/verysimple/OneSetOfRulesMODIFY_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/verysimple/OneSetOfRulesNoLoopMODIFY_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/verysimple/OneSetOfRulesNoLoopMODIFY_ExamQualification.drl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/rules/verysimple/OneSetOfRules_ExamQualification.drl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/rules/verysimple/OneSetOfRules_ExamQualification.drl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,18 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tpotempa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tpotempa&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/tpotempa/Drools-University-Recruitment-3.0.git",
-    "accountId": "a2227e7d-f40f-4751-b838-aad784b736ba"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tpotempa/Drools-University-Recruitment-3.0.git&quot;,
+    &quot;accountId&quot;: &quot;a2227e7d-f40f-4751-b838-aad784b736ba&quot;
   }
-}]]></component>
+}</component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
@@ -85,31 +50,31 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.UniversityMainExpert.executor": "Run",
-    "Application.UniversityMainSimple 3.0.executor": "Run",
-    "Application.UniversityMainVerySimple 3.0.executor": "Run",
-    "Application.UniversityMainVerySimpleStateless.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/tpotempa/Documents/#PROJECT#/IdeaProjects/Drools-University-Recruitment/University-Recruitment-3.0/src/main/resources/rulesverysimple",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.UniversityMainExpert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniversityMainSimple 3.0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniversityMainVerySimple 3.0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniversityMainVerySimpleStateless.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/tpotempa/Documents/#PROJECT#/IdeaProjects/Drools-University-Recruitment/University-Recruitment-3.0/src/main/resources/rulesverysimple&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/rulesverysimple" />
@@ -190,7 +155,9 @@
       <workItem from="1699894746177" duration="24000" />
       <workItem from="1714762588326" duration="1126000" />
       <workItem from="1715086298365" duration="12763000" />
-      <workItem from="1715322029830" duration="5076000" />
+      <workItem from="1715322029830" duration="19974000" />
+      <workItem from="1715591036191" duration="337000" />
+      <workItem from="1715748142694" duration="510000" />
     </task>
     <task id="LOCAL-00001" summary="First.">
       <option name="closed" value="true" />
@@ -216,7 +183,63 @@
       <option name="project" value="LOCAL" />
       <updated>1715286303219</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715327157910</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715327157910</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715327656697</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715327656697</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715327667543</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715327667543</updated>
+    </task>
+    <task id="LOCAL-00007" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715327723361</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715327723361</updated>
+    </task>
+    <task id="LOCAL-00008" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715332255981</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715332255981</updated>
+    </task>
+    <task id="LOCAL-00009" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715337315077</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715337315077</updated>
+    </task>
+    <task id="LOCAL-00010" summary="3.1.">
+      <option name="closed" value="true" />
+      <created>1715748637479</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715748637480</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
